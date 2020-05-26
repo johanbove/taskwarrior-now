@@ -21,3 +21,5 @@ You will need to add
 
 ## Usage
 Call `$ task_export` whenever you want to publish your Taskwarrior json files to your own site.
+
+See <https://github.com/johanbove/now-site> for an example site.
